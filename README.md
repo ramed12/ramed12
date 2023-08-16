@@ -5,7 +5,24 @@
   
   <a href="https://github.com/ramed12">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ramed12&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramed12&layout=compact&langs_count=7&theme=react" />
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramed12&layout=compact&langs_count=7&theme=react" 
+
+<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="AngularJS" width="32" height="32">
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="32" height="32">
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="32" height="32">
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="32" height="32">
+&nbsp;
+<img src="https://img.icons8.com/nolan/48/react-native.png" alt="React" width="32" height="32">
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="32" height="32">
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="32" height="32">
+&nbsp;
+
+/>
   </a>
 </p>
 <p>
