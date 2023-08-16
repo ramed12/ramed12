@@ -48,8 +48,7 @@ Tenho interesse em ou estou estudando: <br/>
 <img src="https://i.ibb.co/DK5tDNP/1174949-js-react-js-logo-react-react-native-icon.png" alt="1174949-js-react-js-logo-react-react-native-icon" border="0" width="32" height="32">
 &nbsp;<img src="https://i.ibb.co/ZYTjG9D/4375161-logo-vuejs-icon.png" alt="4375161-logo-vuejs-icon" border="0" width="32" height="32">&nbsp;<img src="https://i.ibb.co/hsQjbC2/4375050-logo-python-icon.png" alt="4375050-logo-python-icon" border="0" width="32" height="32">
 </p> 
-  <br><a href="https://www.youtube.com/channel/UCR0rSWD2R2onWCso5Ekxp-A" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ramedmendesoficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
   <a href="https://www.linkedin.com/in/ramedmendesoficial/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ramedmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
