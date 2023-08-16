@@ -24,6 +24,22 @@ Atualmente trabalho com as tecnologias e framework <br/> <img src="https://i.ibb
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="32" height="32">
 &nbsp;
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="32" height="32">
+
+<img src="https://img.icons8.com/material/48/000000/github.png" alt="GitHub" width="32" height="32">
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="32" height="32">
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="32" height="32">
+&nbsp;
+<img src="https://img.icons8.com/windows/48/000000/elementor.png" alt="Elementor" width="32" height="32">
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/server.png" alt="Server" width="32" height="32">
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/cloud.png" alt="Cloud" width="32" height="32">
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="32" height="32">
+&nbsp;
+<img src="https://img.icons8.com/nolan/48/manager.png" alt="Manager" width="32">
 &nbsp;
 
 </p>
